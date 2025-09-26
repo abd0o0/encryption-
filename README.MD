@@ -27,7 +27,6 @@ cd encryption-
 
 Install dependencies:pip install -r requirements.txt  # If using Python
 
-(Note: If your project uses another language, replace with appropriate setup steps, e.g., npm install for Node.js or make for C++.)
 
 Usage
 
